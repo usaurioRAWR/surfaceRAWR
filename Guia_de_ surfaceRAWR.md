@@ -112,6 +112,7 @@ Este procedimiento borrara todo los datos de la Surface RT.
 - 13.1. Acceda al panel deslizando el dedo del borde derecho de la pantalla, hacia el centro.
 ![14. abra el menu deslizando de dereca a izquierda]()
 
+
 ### 
 ![]()
 
