@@ -81,12 +81,14 @@
 
 - 10.4. Pulsamos en "Guardar".
 
+![10. 1](/Capturas_del_proceso/10.%201.png)
+
 ![10. descarga v1](/Capturas_del_proceso/10.%20descarga%20v1.PNG)
 
 ![10. descarga v3](/Capturas_del_proceso/10.%20descarga%20v3.PNG)
 
-### 
-![]()
+### 11. Copiar Documentacion_proyecto_surfaceRAWR.zip
+![11. Copiar Documentacion_proyecto_surfaceRAWR](/Capturas_del_proceso/11.%20Copiar%20Documentacion_proyecto_surfaceRAWR.png)
 
-### 
-![]()
+### 12. Pegar Documentacion_proyecto_surfaceRAWR.zip en la unidad USB.
+![12. Pegar Documentacion_proyecto_surfaceRAWR](/Capturas_del_proceso/12.%20Pegar%20Documentacion_proyecto_surfaceRAWR.png)
