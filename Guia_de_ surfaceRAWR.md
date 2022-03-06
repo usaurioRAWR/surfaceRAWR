@@ -1,8 +1,12 @@
 # surfaceRAWR
 
 > Que Microsoft no te impida seguir usando aquello en lo que te gastaste tanto dinero.
-
+---
 ## Procedimiento para darle una segunda oportunidad a tu Surface RT.
+
+`
+¡¡¡Recuerda hacer una copia de seguridad de todos sus datos, antes de comenzar este proceso!!!
+`
 
 ### 00. Abrir nuestro navegador favorito.
 ![00. Abrir nuestro navegador favorito](/Capturas_del_proceso/00.%20Abrir%20nuestro%20navegador%20favorito.PNG)
@@ -92,3 +96,27 @@
 
 ### 12. Pegar Documentacion_proyecto_surfaceRAWR.zip en la unidad USB.
 ![12. Pegar Documentacion_proyecto_surfaceRAWR](/Capturas_del_proceso/12.%20Pegar%20Documentacion_proyecto_surfaceRAWR.png)
+
+![12. resultado](/Capturas_del_proceso/12.%20resultado.png)
+
+### Ya tienes todo lo necesario para empezar el proceso.
+`
+¡¡¡Recuerda hacer una copia de seguridad de todos sus datos, antes de comenzar este proceso!!!
+`
+
+`
+Este procedimiento borrara todo los datos de la Surface RT.
+`
+
+### 13. Iniciar el arranque por USB.
+- 13.1. Acceda al panel deslizando el dedo del borde derecho de la pantalla, hacia el centro.
+![14. abra el menu deslizando de dereca a izquierda]()
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
