@@ -70,8 +70,19 @@
 ![09. copiado](/Capturas_del_proceso/09.%20copiado.PNG)
 
 ### 10. Acceder y descargar la Documentacion del proyecto surfaceRAWR.
+
+- 10.1. Accedemos al siguiente enlace.
 [Documentacion_proyecto_surfaceRAWR](https://drive.google.com/file/d/1plOnVjuvn-opu0ogVKDH-hqC084abcht/view?usp=sharingR) 
-![]()
+
+* 10.2. Pulsamos en "Descargar".
+
+- 10.3. Pulsamos en "Descargar de todos modos".
+
+* 10.4. Pulsamos en "Guardar".
+
+![10. descarga v1](/Capturas_del_proceso/10.%20descarga%20v1.PNG)
+
+![10. descarga v3](/Capturas_del_proceso/10.%20descarga%20v3.PNG)
 
 ### 
 ![]()
