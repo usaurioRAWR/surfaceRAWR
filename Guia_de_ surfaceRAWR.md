@@ -1,12 +1,15 @@
-# surfaceRAWR
-
-> Que Microsoft no te impida seguir usando aquello en lo que te gastaste tanto dinero.
----
-## Procedimiento para darle una segunda oportunidad a tu Surface RT.
+# Procedimiento para darle una segunda oportunidad a tu Surface RT.
 
 `
 ¡¡¡Recuerda hacer una copia de seguridad de todos sus datos, antes de comenzar este proceso!!!
 `
+
+## # Requisitos necesarios para este procedimiento.
+1. Una unidad USB de 16 GB o masyor.
+2. Conexion a internet.
+3. 
+
+## # Preparacion de los mededios. (00 - 12)
 
 ### 00. Abrir nuestro navegador favorito.
 ![00. Abrir nuestro navegador favorito](/Capturas_del_proceso/00.%20Abrir%20nuestro%20navegador%20favorito.PNG)
@@ -108,10 +111,111 @@
 Este procedimiento borrara todo los datos de la Surface RT.
 `
 
-### 13. Iniciar el arranque por USB.
-- 13.1. Acceda al panel deslizando el dedo del borde derecho de la pantalla, hacia el centro.
-![14. abra el menu deslizando de dereca a izquierda]()
+## Instalacion del Sistema Operativo. (13 - 35)
 
+### 13. Apague la Surface y conecte el USB.
+
+### 14. Encendido y instalacion de la ISO.
+- Mantén presionado el botón de bajar volumen mientras presionas y sueltas el botón de inicio/apagado.
+* Cuando aparezca el logotipo de Microsoft o Surface, suelta el botón de bajar volumen.
+
+### 15. Elegir el idioma.
+- Seleccione su idioma.
+
+![15. elegir el idioma.](/Capturas_del_proceso/15.%20elegir%20el%20idioma..jpg)
+
+### 16. Elegir la distribucién del teclado.
+- Seleccione su distribucién del teclado.
+
+![16. Elegir la distribucién del teclado](/Capturas_del_proceso/16.%20Elegir%20la%20distribuci%C3%A9n%20del%20teclado.jpg)
+
+### 17. Elegir una opcion
+- Seleccionar la opcion "Solucionar problemas".
+
+![17. Elegir una opcion](/Capturas_del_proceso/17.%20Elegir%20una%20opcion.jpg)
+
+### 18. Solucionar problemas.
+![18. Solucionar problemas.](/Capturas_del_proceso/18.%20Solucionar%20problemas.jpg)
+
+### 19. Restablecer tu PC.
+![19. Restablecer tu PC](/Capturas_del_proceso/19.%20Restablecer%20tu%20PC.jpg)
+
+### 20. Restablecer tu PC
+![20. Restablecer tu PC](/Capturas_del_proceso/20.%20Restablecer%20tu%20PC.jpg)
+
+### 21. Restablecer tu PC
+![21. Restablecer tu PC](/Capturas_del_proceso/21.%20Restablecer%20tu%20PC.jpg)
+
+### 22. Restablecer tu PC
+![22. Restablecer tu PC](/Capturas_del_proceso/22.%20Restablecer%20tu%20PC.jpg)
+
+### 23. Restablecer tu PC
+![23. Restablecer tu PC](/Capturas_del_proceso/23.%20Restablecer%20tu%20PC.jpg)
+
+### 24. Esperar a que el proceso finalice.
+- Recuerde mantener el cargador conectado.
+![24. Restablecer tu PC %](/Capturas_del_proceso/24.%20Restablecer%20tu%20PC%20porcentaje.jpg)
+-------
+------
+### 25. Región e idioma.
+- Selecciona el idioma y la distribución del teclado que deseas.
+![25. Seleccione Español](/Capturas_del_proceso/25.%20Seleccione%20Espa%C3%B1ol.png)
+![25. Sigueinte idoma teclado](/Capturas_del_proceso/25.%20Sigueinte%20idoma%20teclado.jpg)
+
+### 26. Aceptamos terminso de licencia .
+![26. terminso de licencia aceptar](/Capturas_del_proceso/26.%20terminso%20de%20licencia%20aceptar.png)
+
+### 27. Personalizar.
+- 27.1. Seleccione el color que desea.
+
+* 27.2. Escriba el nombre que desea para el equipo. (Ej. usaurio-pc)
+
+- 27.3. Pulsamos "Siguiente". 
+
+![27. Personalizar](/Capturas_del_proceso/27.%20Personalizar.jpg)
+
+### 28. internet omitir copia
+![28. internet omitir copia](/Capturas_del_proceso/28.%20internet%20omitir.jpg)
+
+### 29. Configuracion personalizada.
+- Le recomendamos realizar la configuracion personalizada. Obteniendo asi una mejor experiencia, al desactivar procesos imnecesarios que consumiran recursos en su Surface RT.
+
+![29. configuracion personalizada](/Capturas_del_proceso/29.%20configuracion%20personalizada.jpg)
+
+### 30. Configuracion.
+- Actualizar tus aplocaciones. (Desactivar).
+
+* Ayudar a proteger tu PC y tu privacidad. (Activar las dos).
+    * Creo que estas dos opciones tienen que ser activadas por nuestra seguridad. Ya que nos protegen ante ataques de phishing y malware, al igual que impide que paginas web soliciten nuestra ubicación.
+
+![30. Desactivar todo y siguiente](/Capturas_del_proceso/30.%20Configuracion.jpg)
+
+### 31. Configuracion.
+- Buscar soluciones en linea. (Actuvar las dos).
+* Ayudar a mejorar los productos y servicios de Microsoft. (Desactivar las dos).
+
+![31. Solo dos y siguiente](/Capturas_del_proceso/31.%20Solo%20dos%20y%20siguiente.jpg)
+
+### 32. Configuracion.
+- Compartir información con Microsoft y otros servicios. (Desactivar las dos).
+
+![32. Desactivar todo y siguiente](/Capturas_del_proceso/32.%20Desactivar%20todo%20y%20siguiente.jpg)
+
+### 33. Tu cuenta.
+- Establezca su nombre de usuario y contraseña. 
+    - Si no desea establecer una contraseña haz como yo, no escribas ninguna.
+* Una vez rellenado el formulario pulse siguiente.
+
+![33. Tu cuenta](/Capturas_del_proceso/33.%20Tu%20cuenta.jpg)
+
+### 34. Esperamos a que se realice el proceso de configuracion.
+![34. Esperamos a que se realice el proceso de configuracion](/Capturas_del_proceso/34.%20Esperamos%20a%20que%20se%20realice%20el%20proceso%20de%20configuracion.jpg)
+
+### 35. Felicidades ya reinstalaste el Sistema Operativo.
+![35. Eureka, has llegado a la mitad del camino](/Capturas_del_proceso/35.%20Eureka%2C%20has%20llegado%20a%20la%20mitad%20del%20camino.jpg)
+
+### 
+![]()
 
 ### 
 ![]()
