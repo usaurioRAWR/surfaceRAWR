@@ -5,9 +5,10 @@
 `
 
 ## # Requisitos necesarios para este procedimiento.
-1. Una unidad USB de 16 GB o masyor.
+1. Una unidad USB de 16 GB o mayor.
 2. Conexion a internet.
-3. 
+4. Una unidad fisica o online donde almacenar su copia de seguridad de todos sus datos.
+4. Mucha paciencia y tiempo.
 
 ## # Preparacion de los mededios. (00 - 12)
 
@@ -111,7 +112,7 @@
 Este procedimiento borrara todo los datos de la Surface RT.
 `
 
-## Instalacion del Sistema Operativo. (13 - 35)
+## # Instalacion del Sistema Operativo. (13 - 35)
 
 ### 13. Apague la Surface y conecte el USB.
 
@@ -155,8 +156,7 @@ Este procedimiento borrara todo los datos de la Surface RT.
 ### 24. Esperar a que el proceso finalice.
 - Recuerde mantener el cargador conectado.
 ![24. Restablecer tu PC %](/Capturas_del_proceso/24.%20Restablecer%20tu%20PC%20porcentaje.jpg)
--------
-------
+
 ### 25. Región e idioma.
 - Selecciona el idioma y la distribución del teclado que deseas.
 ![25. Seleccione Español](/Capturas_del_proceso/25.%20Seleccione%20Espa%C3%B1ol.png)
@@ -213,6 +213,63 @@ Este procedimiento borrara todo los datos de la Surface RT.
 
 ### 35. Felicidades ya reinstalaste el Sistema Operativo.
 ![35. Eureka, has llegado a la mitad del camino](/Capturas_del_proceso/35.%20Eureka%2C%20has%20llegado%20a%20la%20mitad%20del%20camino.jpg)
+
+## # Preparacion del sistema. (36 - XX)
+> ¿Que tal si empezamos optimizando un poco el equipo?
+![36. Introduccion_preparacion_del_sistema](/Capturas_del_proceso/36.%20Introduccion_preparacion_del_sistema.png)
+
+### 36. Despejar el entorno de escritorio.
+- 36.1. Dejamos pulsado el icono a quitar.
+* 36.2. Pulsar "Desanclar de Inicio".
+
+![36. Quitar iconos](/Capturas_del_proceso/36.%20Quitar%20iconos.png)
+- Resultado;
+
+![36. Resultado](/Capturas_del_proceso/36.%20Resultado.png)
+
+> Yo las quite todas;
+![36. Con las que me quede](/Capturas_del_proceso/36.%20Con%20las%20que%20me%20quede.png)
+
+### 37. Acceder a todas las aplicaciones.
+- Deslizamos de abajo a arriba.
+
+![37. Deslizamos de abajo a arriba](/Capturas_del_proceso/37.%20Deslizamos%20de%20abajo%20a%20arriba.png)
+
+![37. Full aplicaciones](/Capturas_del_proceso/37.%20Full%20aplicaciones.png)
+
+### 38. Anclar aplicaciones al inicio.
+- 38.1. Dejar pulsada la aplicacion a anclar.
+* 38.2. Pulsar en el boton "Anclar a Inicio".
+
+![38. Anclar aplicaciones al inicio](/Capturas_del_proceso/38.%20Anclar%20aplicaciones%20al%20inicio.png)
+
+- Como deje mi inicio;
+
+![38. Como deje mi inicio](/Capturas_del_proceso/38.%20Como%20deje%20mi%20inicio.png)
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
+
+### 
+![]()
 
 ### 
 ![]()
