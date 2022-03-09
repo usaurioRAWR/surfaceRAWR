@@ -159,7 +159,9 @@ Este procedimiento borrara todo los datos de la Surface RT.
 
 ### 25. Región e idioma.
 - Selecciona el idioma y la distribución del teclado que deseas.
+
 ![25. Seleccione Español](/Capturas_del_proceso/25.%20Seleccione%20Espa%C3%B1ol.png)
+
 ![25. Sigueinte idoma teclado](/Capturas_del_proceso/25.%20Sigueinte%20idoma%20teclado.jpg)
 
 ### 26. Aceptamos terminso de licencia .
