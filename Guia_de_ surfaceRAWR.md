@@ -298,6 +298,7 @@ Este procedimiento borrara todo los datos de la Surface RT.
 ![50. Memoria virtual](/Capturas_del_proceso/50.%20Memoria%20virtual.PNG)
 
 ## # Comprobacion y correcion del sistema. (51 - XX)
+> A continuacion nos conectaremos a la red y comprobaremos si tenemos problemas en el Windows Update.
 
 ### 
 ![]()
