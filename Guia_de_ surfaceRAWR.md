@@ -220,7 +220,7 @@ Este procedimiento borrara todo los datos de la Surface RT.
 > ¿Que tal si empezamos optimizando un poco el equipo?
 ![36. Introduccion_preparacion_del_sistema](/Capturas_del_proceso/36.%20Introduccion_preparacion_del_sistema.png)
 
-### 36. Despejar el entorno de escritorio.
+### 36. Despejar el entorno de Inicio.
 - 36.1. Dejamos pulsado el icono a quitar.
 * 36.2. Pulsar "Desanclar de Inicio".
 
@@ -249,8 +249,53 @@ Este procedimiento borrara todo los datos de la Surface RT.
 
 ![38. Como deje mi inicio](/Capturas_del_proceso/38.%20Como%20deje%20mi%20inicio.png)
 
-### 
-![]()
+### 39. Despejar el entorno de escritorio.
+- 39.1. Dejamos pulsado el icono a quitar.
+* 36.2. Pulsar "Desanclar este programa de la barra de tareas".
+
+![39. Despejar el entorno de escritorio](/Capturas_del_proceso/39.%20Despejar%20el%20entorno%20de%20escritorio.png)
+
+### 40. Anclar aplicaciones a la barra del escritorio.
+- 40.1. Dejar pulsada la aplicacion a anclar.
+* 40.2. Pulsar en el boton "Anclar a la barra de tareas".
+
+![40. Anclar aplicaciones a la barra del escritorio](/Capturas_del_proceso/40.%20Anclar%20aplicaciones%20a%20la%20barra%20del%20escritorio.png)
+
+### 41. Acceder al panel de control.
+![41. Panel de control](/Capturas_del_proceso/41.%20Panel%20de%20control.png)
+
+### 42. Acceder a sistema y seguridad.
+![42. Sistema y seguridad](/Capturas_del_proceso/42.%20Sistema%20y%20seguridad.PNG)
+
+### 43. Acceder a Sistema.
+![43. Sistema](/Capturas_del_proceso/43.%20Sistema.PNG)
+
+### 44. Acceder a configuración avanzada del sistema.
+![44. Configuración avanzada del sistema.](/Capturas_del_proceso/44.%20Configuraci%C3%B3n%20avanzada%20del%20sistema..PNG)
+
+### 45. Acceder a Configuracion de Rendimiento.
+![45. Configuracion](/Capturas_del_proceso/45.%20Configuracion.PNG)
+
+### 46. Seleccionar "Ajustar para obtener el mejor rendimiento".
+![46. Minimo](/Capturas_del_proceso/46.%20Minimo.PNG)
+
+### 47. Seleccionar "Suavizar bordes para las fuentes de pantalla" y Aceptar.
+
+![47. Suavizar bordes para las fuentes de pantalla](/Capturas_del_proceso/47.%20Suavizar%20bordes%20para%20las%20fuentes%20de%20pantalla.PNG)
+
+### 48. Acceder a "Opciones avanzadas".
+![48. Opciones avanzadas](/Capturas_del_proceso/48.%20Opciones%20avanzadas.PNG)
+
+### 49. Acceder a "Cambiar...".
+![49. Cambiar](/Capturas_del_proceso/49.%20Cambiar.PNG)
+
+### 50. Configurar Memoria virtual.
+- 50.1. Seleccionar Tamaño personalizado.
+* 50.2. Introducir los siguientes valores.
+- 50.3. Pulsar "Establecer" y despues Aceptar.
+* Reinicar el equipo para aplicar los cambios.
+
+![50. Memoria virtual](/Capturas_del_proceso/50.%20Memoria%20virtual.PNG)
 
 ### 
 ![]()
