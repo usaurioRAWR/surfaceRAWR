@@ -297,10 +297,27 @@ Este procedimiento borrara todo los datos de la Surface RT.
 
 ![50. Memoria virtual](/Capturas_del_proceso/50.%20Memoria%20virtual.PNG)
 
-## # Comprobacion y correcion del sistema. (51 - XX)
+## # Copiar la documentacion al equipo. (51 - 54)
+
+### 51. Conectar el USB y entrar.
+![51. Conectar el USB y entrar](/Capturas_del_proceso/51.%20Conectar%20el%20USB%20y%20entrar.PNG)
+
+### 52. Comiar el ZIP con la documentacion.
+![52. Comiar el ZIP con la documentacion](/Capturas_del_proceso/52.%20Comiar%20el%20ZIP%20con%20la%20documentacion.png)
+
+### 53. Pegar la documentacion en el escritorio.
+![53. Pegar la documentacion en el escritorio](/Capturas_del_proceso/53.%20Pegar%20la%20documentacion%20en%20el%20escritorio.png)
+
+### 54. Descomprimir
+![54. Descomprimir](/Capturas_del_proceso/54.%20Descomprimir.png)
+![54. Estrar](/Capturas_del_proceso/54.%20Estrar.png)
+![54. Extrallendo](/Capturas_del_proceso/54.%20Extrallendo.png)
+![54. Extraido](/Capturas_del_proceso/54.%20Extraido.png)
+
+## # Comprobacion y correcion del sistema. (55 - XX)
 > A continuacion nos conectaremos a la red y comprobaremos si tenemos problemas en el Windows Update.
 
-### 
+### 55. Conexion a Internet.
 ![]()
 
 ### 
