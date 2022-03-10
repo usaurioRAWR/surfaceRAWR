@@ -216,7 +216,7 @@ Este procedimiento borrara todo los datos de la Surface RT.
 ### 35. Felicidades ya reinstalaste el Sistema Operativo.
 ![35. Eureka, has llegado a la mitad del camino](/Capturas_del_proceso/35.%20Eureka%2C%20has%20llegado%20a%20la%20mitad%20del%20camino.jpg)
 
-## # Preparacion del sistema. (36 - XX)
+## # Preparacion del sistema. (36 - 50)
 > ¿Que tal si empezamos optimizando un poco el equipo?
 ![36. Introduccion_preparacion_del_sistema](/Capturas_del_proceso/36.%20Introduccion_preparacion_del_sistema.png)
 
@@ -296,6 +296,8 @@ Este procedimiento borrara todo los datos de la Surface RT.
 * Reinicar el equipo para aplicar los cambios.
 
 ![50. Memoria virtual](/Capturas_del_proceso/50.%20Memoria%20virtual.PNG)
+
+## # Comprobacion y correcion del sistema. (51 - XX)
 
 ### 
 ![]()
