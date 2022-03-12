@@ -314,14 +314,35 @@ Este procedimiento borrara todo los datos de la Surface RT.
 ![54. Extrallendo](/Capturas_del_proceso/54.%20Extrallendo.png)
 ![54. Extraido](/Capturas_del_proceso/54.%20Extraido.png)
 
-## # Comprobacion y correcion del sistema. (55 - XX)
+## # Conexion a Internet y Comprobacion de actualizaciones. (55 - 56)
 > A continuacion nos conectaremos a la red y comprobaremos si tenemos problemas en el Windows Update.
 
 ### 55. Conexion a Internet.
-![]()
+- 55.1. Pulsar en Conexion WiFi
+* 55.2. Seleccionar la red WiFi que deseas.
+- 55.3. Pulsa en Conectar.
+* 55.4. Introducir Contraseña.
+- 55.5. Pulsar Siguiente.
+* 55.6. Seleccionar si deseamos interactuar con dispositivos en red.(En mi caso sera un NO)
 
-### 
-![]()
+![55. Pulsar wifi](/Capturas_del_proceso/55.%20Pulsar%20wifi.PNG)
+![55. Seleccionar red](/Capturas_del_proceso/55.%20Seleccionar%20red.png)
+![55. Pulsa en Conectar](/Capturas_del_proceso/55.%20Pulsa%20en%20Conectar.png)
+![55. Contra](/Capturas_del_proceso/55.%20Contra.png)
+![55. SiNo](/Capturas_del_proceso/55.%20SiNo.png)
+![55. Conectados](/Capturas_del_proceso/55.%20Conectados.PNG)
+
+### 56. Comprobacion de actualizaciones.
+- 56.1. Acceder al Penel de Control.
+* 56.2. Pulsar Sistema y Seguridad.
+- 56.3. Pulsamos en Sistema.
+* 56.4. Pulsar en Buscar actualizaciones.
+
+![56. Panel de control](/Capturas_del_proceso/56.%20Panel%20de%20control.png)
+![56. Sistema y Seguridad](/Capturas_del_proceso/56.%20Sistema%20y%20Seguridad.PNG)
+![56. Sistema](/Capturas_del_proceso/56.%20Sistema.PNG)
+![56. Buscar](/Capturas_del_proceso/56.%20Buscar.PNG)
+![56. Buscando](/Capturas_del_proceso/56.%20Buscando.PNG)
 
 ### 
 ![]()
