@@ -344,7 +344,16 @@ Este procedimiento borrara todo los datos de la Surface RT.
 ![56. Buscar](/Capturas_del_proceso/56.%20Buscar.PNG)
 ![56. Buscando](/Capturas_del_proceso/56.%20Buscando.PNG)
 
-### 
+## # Error en Windows Update. (57 - XX)
+- Soluciones a utilizar;
+    * 1º Solucionador de problemas.
+    - 2º Test y reparacion de erroes del SO, mediante la CMD.
+    * 3º Instalacion manual de actializacines con correccion de erroes. 
+
+![57. Error](/Capturas_del_proceso/57.%20Error.PNG)
+
+### Comprobaremos del estado del SO y ejecucion de correccion de errores mediante CMD.
+> Si esto no corrige el error, saltaremos a la instalacion manual de actualizaciones.
 ![]()
 
 ### 
